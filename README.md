@@ -1,7 +1,7 @@
 # Lab-7---Defender-for-Cloud-Apps-application-discovery-and-enforcing-restrictions
 In this exercise, I reviewed cloud app discovery data and configured app restrictions in Microsoft Defender for Cloud Apps. This exercise showed how to identify and govern shadow IT in the organization.
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 Microsoft Defender for Cloud Apps utilizes logs from network traffic to identify the applications that users are accessing.  Traffic logs from on-premises firewalls will provide a snapshot report on the most common applications and the users that are accessing these apps.  Traffic from managed devices will be fed into the Microsoft Defender for Cloud Apps discovery overview dashboard
 
